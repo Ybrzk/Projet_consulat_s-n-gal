@@ -4,12 +4,12 @@ Formateur : Samba Cissé
 Version : 0.9.0
 
 
-#Projet - Note de cadrage – Consulat général du Sénégal à Marseille
+Projet - Note de cadrage – Consulat général du Sénégal à Marseille#
 
 
-##Étude préalable Application de suivie des demandes d’actes d’état-civil
+Étude préalable Application de suivie des demandes d’actes d’état-civil##
 
-###Objectifs du projet :
+Objectifs du projet :###
 
 -Faciliter les démarches administrative par le biais de leur interface internet via l’appli.
 -Avoir une vision nette du nombre de Sénégalais dans la juridiction de Marseille dans les départements suivants.. Alpes de Haute Provence(04), Alpes Maritimes(06), Bouches du Rhône(13), Hérault(34), Var(83)
@@ -29,7 +29,7 @@ Sécurité RGPD, quel volume, serveur local, cloud ? répondre à ces questions 
 
 
 
-###Besoin :
+Besoin :###
 
 -Transposer le prospectus (les infos pour la carte consulaire) en numérique.
 
@@ -45,16 +45,16 @@ les certificats de déménagements
 
 
 
-###Bénéfices :
+Bénéfices :###
 
 Permet d’avoir un gain de temps lors des procédures, facilite également l’optimisation des données et permet l’utilisation de papiers 
 
 
-###Points à surveiller :
+Points à surveiller :###
 
 -Vérification du statut Sénégalais de l’individu lors des enregistrement en ligne.
 
-###Technologie du client :
+Technologie du client :###
 
 -Word 
 -Excel
@@ -62,12 +62,12 @@ Permet d’avoir un gain de temps lors des procédures, facilite également l’
 -Power point
 -Système d’exploitation : Windows 10 
 
-###Services impliqués :
+Services impliqués :###
 
 -Bureau consulaire
 -Bureau des passeports
 
-###A propos du Consulat Sénégalais :
+A propos du Consulat Sénégalais :###
 
 -adresse : 446 Avenue du prado 13008 Marseille 
 -responsable : Mr. Abdourahmane Koita
